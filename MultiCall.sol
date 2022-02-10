@@ -4,6 +4,8 @@ contracts/MultiCall.sol:
  
 dweb:           /ipfs/QmehNi3HMZQ33Y385maoxkJKai7iBcMMrXGjds8oWXH9xZ
 metadata.json:  dweb:/ipfs/QmYZfDDFqDVEhQA6ZXvVwFJ5QBYZsLjSihfB1Vnj6bvtj2
+
+Contract:       0x8924755a7FB45bF0A37A6A773795CFa878114A26
 */
 
 
